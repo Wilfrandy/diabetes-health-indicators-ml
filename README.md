@@ -1,6 +1,6 @@
 # Diabetes Risk Prediction (Machine Learning)
 
-Machine learning project that predicts diabetes risk using health and lifestyle indicators from the :contentReference[oaicite:0]{index=0} (CDC Diabetes Health Indicators dataset).
+Machine learning project that predicts diabetes risk using health and lifestyle indicators from the CDC Diabetes Health Indicators dataset.
 
 ## Overview
 
@@ -8,8 +8,8 @@ Built and compared multiple classification models to identify key predictors of 
 
 ## Models
 
-- Random Forest (:contentReference[oaicite:1]{index=1})
-- Neural Network (:contentReference[oaicite:2]{index=2} / Keras)
+- Random Forest
+- Neural Network
 
 ## Tech Stack
 
